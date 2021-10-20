@@ -8,9 +8,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajabnoorkhanwazir&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajabnoorkhanwazir&show_icons=true&theme=radical)
+
 
 
 
