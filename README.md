@@ -8,7 +8,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Anurag's GitHub stats](https://github-readme-stats.vertical.app/api?username=ajabnoorkhanwazir&show_icons=true)
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ajabnoorkhanwazir&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
