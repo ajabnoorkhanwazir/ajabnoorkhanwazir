@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-
-<img src="https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80" alt="Flowers in Chania" width="100%" height="50%">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,13 +10,14 @@
 
 <br>
 
-<div style="float:left">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajabnoorkhanwazir&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajabnoorkhanwazir&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
   
-  </div>
 
 <hr>
 
