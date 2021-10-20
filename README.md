@@ -29,6 +29,5 @@
 
 <hr>
 
-  
-  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://gooposts.com/gbraad)
+  <a href="https://www.gooposts.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
